@@ -1,1 +1,11 @@
-
+# NAME: GlobalNews
+payload:
+- DOMAIN-SUFFIX,forbes.com
+- DOMAIN-SUFFIX,bbc.com
+- DOMAIN-SUFFIX,apnews.com
+- DOMAIN-SUFFIX,techcrunch.com
+- DOMAIN-SUFFIX,9to5mac.com
+- DOMAIN-SUFFIX,springwise.com
+- DOMAIN-SUFFIX,digitaltrends.com
+- DOMAIN-SUFFIX,wsj.com
+- DOMAIN-SUFFIX,wsj.net
