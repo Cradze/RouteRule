@@ -25,3 +25,7 @@ payload:
 - DOMAIN-SUFFIX,wiki.metacubex.one
 - DOMAIN-SUFFIX,stripe.com
 - DOMAIN-SUFFIX,lowendtalk.com
+- DOMAIN-SUFFIX,ovh.com
+- DOMAIN-SUFFIX,ovh.ie
+- DOMAIN-SUFFIX,ovhcloud.com
+- DOMAIN-SUFFIX,us.ovhcloud.com
