@@ -8,3 +8,4 @@ payload:
 - DOMAIN-SUFFIX,ovh.ie
 - DOMAIN-SUFFIX,ovhcloud.com
 - DOMAIN-SUFFIX,us.ovhcloud.com
+- DOMAIN-SUFFIX,debian.org
