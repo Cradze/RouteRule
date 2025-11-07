@@ -1,3 +1,10 @@
-# NAME: Route To HK
+# NAME: Route To US
 payload:
 # 论坛
+- DOMAIN-SUFFIX,lowendtalk.com
+#云服务厂商
+- DOMAIN-SUFFIX,colocrossing.com
+- DOMAIN-SUFFIX,ovh.com
+- DOMAIN-SUFFIX,ovh.ie
+- DOMAIN-SUFFIX,ovhcloud.com
+- DOMAIN-SUFFIX,us.ovhcloud.com
