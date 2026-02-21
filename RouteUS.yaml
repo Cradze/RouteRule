@@ -9,3 +9,8 @@ payload:
 - DOMAIN-SUFFIX,ovh.ie
 - DOMAIN-SUFFIX,ovhcloud.com
 - DOMAIN-SUFFIX,us.ovhcloud.com
+- DOMAIN-SUFFIX,breezehost.io
+- DOMAIN-SUFFIX,hetzner.com
+#个人服务
+- DOMAIN-SUFFIX,minio.mnt.cc
+- DOMAIN-SUFFIX,docker.mirrorimage.cc
