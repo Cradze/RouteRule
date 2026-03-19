@@ -1,0 +1,16 @@
+# NAME: Route To HK
+payload:
+#论坛
+- DOMAIN-SUFFIX,nodeseek.com
+- DOMAIN-SUFFIX,nodeimage.co
+- DOMAIN-SUFFIX,nodequality.com
+- DOMAIN-SUFFIX,hostloc.com
+- DOMAIN-SUFFIX,linux.do
+- DOMAIN-SUFFIX,v2ex.com
+- DOMAIN-SUFFIX,111666.best
+- DOMAIN-SUFFIX,stripe.com
+- DOMAIN-SUFFIX,claw.cloud
+- DOMAIN-SUFFIX,rfchost.com
+- DOMAIN-SUFFIX,sixtynet.net
+- DOMAIN-SUFFIX,91cg1.com
+- DOMAIN-SUFFIX,51cg.app
