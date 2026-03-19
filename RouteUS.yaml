@@ -1,7 +1,5 @@
 # NAME: Route To US
 payload:
-# 论坛
-- DOMAIN-SUFFIX,lowendtalk.com
 #云服务厂商
 - DOMAIN-SUFFIX,colocrossing.com
 - DOMAIN-SUFFIX,debian.org
@@ -11,5 +9,9 @@ payload:
 - DOMAIN-SUFFIX,us.ovhcloud.com
 - DOMAIN-SUFFIX,breezehost.io
 - DOMAIN-SUFFIX,hetzner.com
+- DOMAIN-SUFFIX,hostdzire.com
+- DOMAIN-SUFFIX,netcup.com
+- DOMAIN-SUFFIX,customercontrolpanel.de
+- DOMAIN-SUFFIX,servercontrolpanel.de
 #个人服务
 - DOMAIN-SUFFIX,docker.mirrorimage.cc
