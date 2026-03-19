@@ -1,6 +1,7 @@
 # NAME: Route To HK
 payload:
 #论坛
+- DOMAIN-SUFFIX,lowendtalk.com
 - DOMAIN-SUFFIX,nodeseek.com
 - DOMAIN-SUFFIX,nodeimage.co
 - DOMAIN-SUFFIX,nodequality.com
