@@ -13,5 +13,3 @@ payload:
 - DOMAIN-SUFFIX,netcup.com
 - DOMAIN-SUFFIX,customercontrolpanel.de
 - DOMAIN-SUFFIX,servercontrolpanel.de
-#个人服务
-- DOMAIN-SUFFIX,docker.mirrorimage.cc
