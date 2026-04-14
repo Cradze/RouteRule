@@ -1,9 +1,0 @@
-# NAME: Route To JP
-payload:
-#论坛
-- DOMAIN-SUFFIX,sony.net
-- DOMAIN-SUFFIX,sony.com
-- DOMAIN-SUFFIX,sony.com.cn
-- DOMAIN-SUFFIX,sigma-global.com
-- DOMAIN-SUFFIX,sigma-photo.com.cn
-- DOMAIN-SUFFIX,sigma-photo.com
